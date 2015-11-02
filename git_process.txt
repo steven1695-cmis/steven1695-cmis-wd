@@ -1,0 +1,48 @@
+Steps to Create a File and put it into your repository on github.com
+
+
+ Open up terminal
+
+ Copy and Paste in "git clone --config="http.proxy=http://steven1695:MCSquare12@192.168.2.1:8080" https://github.com/steven1695-cmis/steven1695-cmis-wd.git" into terminal. DO NOT INCLUDE " "
+
+ Type in "ls" into terminal. DO NOT INCLUDE " "
+
+ Press Enter
+
+ Type in "cd" into terminal then spacebar and type your Repo file
+
+ Press Enter
+
+ Type in "gedit" then spacebar and a name for your file that you are creating
+
+ Don't forget to add & at the end
+
+ Press Enter
+
+ This will create a file
+
+ Write stuff in your file
+
+ Save the file
+
+ Close file and go back to terminal
+
+ Type in "git add" then spacebar and the file name
+
+ Type in "git commit -m "Commit Comment"" but include the "" inside the " "
+
+ You can then write a comment inside the "" in replacement of commit comment
+
+ Press Enter
+
+ Type in "git push" 
+
+ Press Enter
+
+ Type in Github username
+ 
+ Press Enter
+
+ Type in Github password
+
+ Tadah. Your done.
