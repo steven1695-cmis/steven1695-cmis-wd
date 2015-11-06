@@ -19,3 +19,19 @@ git add <file name>
 git commit -m "Commit Comment"
 
 git push
+
+
+
+sftp steven1695@cmis-hsteacher: enter sftp
+
+ls: same as terminal
+
+cd: same as terminal
+
+predend a command with ! to execute it on local
+
+put <filename>: upload a file
+
+get <filename>: upload a file
+
+exit: exit
