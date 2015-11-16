@@ -36,7 +36,12 @@ html{
 	background-image:url(http://assets.feministing.com/wp-content/uploads/2015/03/Overflowing-Bookcases.jpg)
 }
 body{
-	background-color: green;
+	background-color: orange;
+}
+main{
+	border-style:groove;
+	border-width:30px;
+	border-color:blue;
 }
 /* Requirements
 
