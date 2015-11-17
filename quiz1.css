@@ -1,0 +1,41 @@
+h1{
+	color:yellow;
+	background-color:purple;
+	border-style:none solid none none;
+	border-width:20px
+}
+header{
+	background-color:red;
+	border-style:none none dashed none;
+	border-width:10px;
+	border-color:yellow;
+}
+h2{
+	color:blue;
+	font-size:15px;
+	font-style:italic;
+}
+h3{
+	color:purple;
+	background-color:yellow;
+	border-style:dashed none none none;
+}
+p{
+	color:yellow;
+	background-color:green;
+	border-style:none none dotted none;
+}
+h4{
+	color:blue;
+}
+main{
+	border-style:none solid none solid;
+	border-color:white blue white red;
+	border-width:10px;
+}
+footer{
+	color:blue;
+	border-style:dotted groove none groove;
+	border-color:black orange black orange;
+	border-width:2px 10px 2px 10px;
+}
