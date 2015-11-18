@@ -16,7 +16,7 @@ python -m SimpleHTTPServer: Start the development server
 
 git clone --config="http.proxy=http://steven1695:MCSquare12@192.168.2.1:8080" https://github.com/steven1695-cmis/steven1695-cmis-wd.git
 
-git add <file name>
+git add <foldername/filename>
 
 git commit -m "Commit Comment"
 
@@ -30,6 +30,10 @@ ls: same as terminal
 
 cd: same as terminal
 
+cd public_html/
+
+pwd: what folder I am working in
+
 predend a command with ! to execute it on local
 
 put <filename>: upload a file
@@ -37,3 +41,12 @@ put <filename>: upload a file
 get <filename>: upload a file
 
 exit: exit
+
+
+http://cmis-hsteacher/~steven1695/<filename>
+
+localhost:8000/<filename>
+
+mkdir <foldername>: make a folder
+
+rmdir <foldername>: remove a folder
