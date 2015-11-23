@@ -1,0 +1,13 @@
+h1{
+	border-style:groove;
+	border-color:blue;
+	border-width:20px;
+	background:yellow;
+	text-align:center;
+}
+main{
+	background:yellow;
+}
+html{
+	background:green;
+}
