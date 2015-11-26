@@ -8,9 +8,17 @@
 		<meta charset="utf-8"/>
 	</head>
 	<body>
+		<main>
+		</main>
 		<header>
 			<h1>Tables</h1>
 		</header>
+		<nav>
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="listsandlinks/index.html">Lists and Links</a></li>
+			</ul>
+		</nav>
 		<header>
 			<h2>Simple Grid</h2>
 		</header>
@@ -46,7 +54,7 @@
 		</header>
 		<table border="1">
 			<tr>
-				<th>December 2015</th>
+				<th colspan="7">December 2015</th>
 			</tr>
 			<tr>
 				<th>Mon</th>
@@ -84,12 +92,34 @@
 				<td>19</td>
 				<td>20</td>
 			</tr>
+				<td colspan="7">Created by: Me!</td>
+			</tr>
 		</table>
-		<nav>
-		</nav>
-		<main>
-		</main>
+		<header>
+			<h2>Class Schedule</h2>
+		</header>
+		<table border="1">
+			<tr>
+				<th>Period</th>
+				<th>Class Info</th>
+			</tr>
+			<tr>
+				<th rowspan="2">1</th>
+				<td>Mr. Kieffer</td>
+			</tr>
+			<tr>
+				<td>Computer Science</td>
+			</tr>
+			<tr>
+				<th rowspan="2">2</th>
+				<td>Mr. Knox</td>
+			</tr>
+			<tr>
+				<td>History</td>
+			</tr>
+		</table>
 		<footer>
+			<p>&copy;2012 Nathan Kieffer - CMIS Web Design</p>
 		</footer>
 	</body>
 </html>
