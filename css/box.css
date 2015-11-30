@@ -4,20 +4,42 @@ h1{
 	font-size:100px;
 	border-style:solid;
 	border-width:20px;
+	border-color:#00CED1;
+	text-align:center;
 }
 p{
 	padding-top:50px;
+	color:black;
+	font-size:40px;
+	background-color:#C71585;
 	border-style:double solid double solid;
 	border-width:10px;
-	margin:50px;
+	border-color:blue;
+	margin-left:50px;
 	height:100px;
-	width:1000px;
+	width:1400px;
 }
-main ~ h2{
-	color:red;
-	background-color:green;
-	font-size:50px;
+main h1{
+	background-color:#E6E6FA;
+	font-size:100px;
+	border-style:none;
+}
+main h2{
+	background-color:#1E90FF;
+}
+main{
+	background-color:#87CEFA;
 }
 html{
-	background-color:yellow;
+	background-image:url(http://xyer.co/wallpaper/28/6/dark-picture.jpg)
+}
+table{
+	color:white;
+}
+nav{
+	color:white;
+	font-size:40px;
+}
+ul ~ li{
+	color:green;
 }
