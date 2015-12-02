@@ -24,7 +24,8 @@ main h1{
 	font-size:100px;
 	border-style:none;
 }
-main h2{
+h2{
+	color:white;
 	background-color:#1E90FF;
 }
 main{
@@ -40,6 +41,9 @@ nav{
 	color:white;
 	font-size:40px;
 }
-ul ~ li{
+ul > li{
 	color:green;
+}
+tr ~ th{
+	background-color:#8B0000;	
 }
