@@ -1,0 +1,40 @@
+header{
+	background-color:red;
+	border-style:none solid none none;
+	border-color:yellow;
+	border-width:50px;
+}
+header h1{
+	border-style:solid;
+	border-color:yellow;
+	border-width:3px;
+}
+header p{
+	color:white;
+}
+table{
+	border:1px solid black;
+}
+nav{
+	border:1px solid black;
+}
+main{
+	background-color:#686868;
+}
+main p{
+	color:white;
+	background-color:black;
+}
+main article{
+	background-color:white;
+}
+table th{
+	background-color:yellow;
+}
+footer{
+	border:10px dashed blue;
+	color:white;
+	background-color:blue
+	margin-top:20px;
+	margin-bottom:20px;
+}
