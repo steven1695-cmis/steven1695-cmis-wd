@@ -50,3 +50,11 @@ localhost:8000/<filename>
 mkdir <foldername>: make a folder
 
 rmdir <foldername>: remove a folder
+
+
+*{: select everything(css)
+//:turn off certain css modification
+float:"float" certain css modification
+img."class name": selects certain group of images for css modification
+clear: don't let anything float through(css)(left, right, or both)
+<br>:adds a new line. (html)
