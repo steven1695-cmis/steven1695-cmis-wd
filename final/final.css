@@ -1,0 +1,16 @@
+img{
+	width:250px;
+	height:auto;
+//	float:left;
+//	clear:left;
+}
+*{
+	outline:1px solid;
+}
+main{
+	margin-left:200px;
+//	float:right;
+}
+nav{
+	width:200px;
+}
