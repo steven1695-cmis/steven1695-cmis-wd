@@ -1,16 +1,38 @@
-img{
+img.Kappa{
 	width:250px;
 	height:auto;
-//	float:left;
-//	clear:left;
+	float:right;
 }
 *{
 	outline:1px solid;
 }
 main{
 	margin-left:200px;
-//	float:right;
+}
+article{
+	background-color:#87CEFA;
+}
+h1{
+	border-style:20px dashed 
+}
+h2{
+	color:white;
+	background-color:#00008B;
+}
+p{
+	clear:right;
+}
+br{
+	clear:right;
 }
 nav{
-	width:200px;
+	width:199px;
+	float:left;
+}
+img.HomeKappa{
+	width:500px;
+}
+li{
+	background-color:#00FA9A;
+	padding:10px 0px 10px 0px;
 }
