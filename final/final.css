@@ -3,6 +3,11 @@ img.Kappa{
 	height:auto;
 	float:right;
 }
+img.HomeKappa{
+	width:500px;
+	height:auto;
+	float:right;
+}
 li a{
 	display:block;
 	color:black;
@@ -11,25 +16,25 @@ li a:hover{
 	background-color:black;
 	color:white;
 }
-*{
-	outline:1px solid;
-}
 main{
 	margin-left:200px;
-}
-article{
-	background-color:#87CEFA;
 }
 h1{
 	font-size:50px;
 	border-style:dashed;
 	border-width:10px;
 	text-align:center; 
+	background-image:url(images/BlueBack.jpg);
 }
 h2{
 	color:white;
-	background-color:#00008B;
+	background-color:black;
 	clear:right;
+}
+h3{
+	background-image:url(images/SkyBack.jpg);
+	font-size:30px;
+	padding:10px 0px 10px 0px;
 }
 p{
 	width:800px;
@@ -38,17 +43,35 @@ br{
 	clear:right;
 }
 nav{
-	width:199px;
+	width:200px;
 	float:left;
-}
-img.HomeKappa{
-	width:500px;
-	float:right;
 }
 li{
 	background-color:#00FA9A;
-	padding:10px 0px 10px 0px;
+	padding:5px 0px 5px 5px;
+	background-image:url(images/BlurBack.jpg);
 }
 article ul{
 	width:500px;
+}
+article{
+	background-image:url(images/NostalgicBlueBack.jpg);
+}
+html{
+	background-image:url(images/GreenBack.jpg);
+}
+article p{
+	padding:10px 10px 10px 10px;
+	color:white;
+	font-size:25px;
+}
+header p{
+	color:white;
+	font-size:20px;
+	background-color:black;
+	text-align:center;
+	width:auto;
+	border-style:solid;
+	border-width:10px;
+	border-color:#00FFFF;
 }
