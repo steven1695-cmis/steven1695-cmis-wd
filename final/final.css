@@ -1,7 +1,15 @@
 img.Kappa{
-	width:250px;
+	width:300px;
 	height:auto;
 	float:right;
+}
+li a{
+	display:block;
+	color:black;
+}
+li a:hover{
+	background-color:black;
+	color:white;
 }
 *{
 	outline:1px solid;
@@ -13,14 +21,18 @@ article{
 	background-color:#87CEFA;
 }
 h1{
-	border-style:20px dashed 
+	font-size:50px;
+	border-style:dashed;
+	border-width:10px;
+	text-align:center; 
 }
 h2{
 	color:white;
 	background-color:#00008B;
+	clear:right;
 }
 p{
-	clear:right;
+	width:800px;
 }
 br{
 	clear:right;
@@ -31,8 +43,12 @@ nav{
 }
 img.HomeKappa{
 	width:500px;
+	float:right;
 }
 li{
 	background-color:#00FA9A;
 	padding:10px 0px 10px 0px;
+}
+article ul{
+	width:500px;
 }
